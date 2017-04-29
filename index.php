@@ -109,7 +109,7 @@
                 <!-- start welcome text -->
                 <div class="col-lg-5 col-md-6 col-md-8 align-justify">
                 	<h1>What is MyOw?</h1>
-                    <p>We want the design to provide the user with confidence in the information provided so we are using professional logos which include a medical emblem. We also wan to have a low number of screens so that users can quickly and easily access key medical information that may help save their pet's life. </p>
+                    <p>We want the design to provide the user with confidence in the information provided so we are using professional logos which include a medical emblem. We also want to have a low number of screens so that users can quickly and easily access key medical information that may help save their pet's life. </p>
                 </div><!-- end welcome text -->
             </div><!-- end row 2 -->
             
