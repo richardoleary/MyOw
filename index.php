@@ -118,7 +118,7 @@
             </div><!-- end spacer row -->
             
             <!-- start main row 3 (definitions banner (db)) -->
-            <div class="row definition-banner">
+            <div class="definition-banner">
             	<!-- start db row 1 -->
                 <div class="row">
                     <div class="col-lg-12">
