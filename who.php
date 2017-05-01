@@ -87,9 +87,9 @@
             
         	<!-- start main row 1 -->
             <div class="row">
-            	<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            	<div class="col-lg-10 col-lg-offsfet-1 col-md-10 col-md-offset-1">
                 	<div class="row">
-                    	<div class="col-lg-8 col-lg-offset-2 align-center">
+                    	<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-10 col-xs-offset-1">
                         	<img src="images/persona.png" class="img-responsive">
                         </div>
                     </div>
@@ -122,20 +122,21 @@
                 </div>
           	</div><!-- end main row 2 -->
             
-            <!-- start main row 4 -->
+            <!-- start main row 3 -->
             <div class="row">
             	<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 align-justify">
                 	<h2>Scenario</h2>
                     <p>Mary and the kids come home from school on Wednesday evening to find Kiella hadn't eaten much of the food she left out for him that day, and he is looking really weak. She uses MyOw to try and find out what might be wrong with him. It look like a lot of his symptoms could be related to Hypoglycemia so she emails their vet to make an appointment to have Kiella seen the next day. The app has suggested rubbing honey in Kiella's gums, it seems like a safe enough approach so she tries it.</p>
+                    
                     <p>Sadly there is still no sign of Molly and Katie is very upset that something has happened to her. So Mary goes on MyOw and creates a missing animal advert using Molly's Pet Profile, which is stored on the app, and publishes it to all the media sources available including the paid adverts.</p>
+                    
                     <p>A few hours pass by and Mary gets a notification that a cat matching Molly's description has been found 2km away from the house on the road. Mary calls the person who responded and finds out the exact location so she and Katie jump in the car to see if it's her. Unfortunately, when they get there they discover that it is Molly and she has been clipped by a car and is struggling to get up. Mary calls the usual vet but there is no answer, so she goes on MyOw and searches for the nearest vet that could treat Molly. The app connects Mary to a veterinary hospital 15 km away and they agree to see her immediately. The vet says that Molly has broken her hip and will need to be operated on and kept in for a few days. </p>
                     
                     <p>Back home, Mary goes back on MyOw to see what else she can do to help Kiella. The recommended advice is to keep him warm. She arranges for David's mother, Margot, to look after Kiella during the day as she is home and doesn't mind her dogs being in the house. As Margot also has MyOw installed on her phone, Mary opts to share Kiella's Pet Profile with Margot so she can update any of his details if need be.</p>
                     
                     <p>Margot takes Kiella to the vet the next day and the vet is fairly sure that it is in fact Hypoglycemia. He takes some blood and urine samples to be sent off for analysis. Margot updates Kiella's profile to everyone else can see the news. That night when Mary picks up Kiella, Margot informs her of some of the advice that the vet gave and she goes home with Kiella and the kids. At home, she updates Kiella's calendar to set reminders for his medication intake three times a day.</p>
-                    
                 </div>
-            </div><!-- end main row 4 -->
+            </div><!-- end main row 3 -->
         </div><!-- end main content -->
         
         
