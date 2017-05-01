@@ -264,7 +264,7 @@
                 -->
                 
             <!-- start copyright and social media -->
-            <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-8 col-xs-offset-2 container">
+            <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-8 col-xs-offset-2 container" id="copyright">
                 <table width="75%" cellspacing="2" cellpadding="2" class="align-table">
                   <tbody>
                     <tr>
