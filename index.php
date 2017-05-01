@@ -117,57 +117,60 @@
             <div class="spacer-row">
             </div><!-- end spacer row -->
             
-            <!-- start main row 3 (definitions banner (db)) -->
-            <div class="definition-banner">
-            	<!-- start db row 1 -->
-                <div class="row">
-                    <div class="col-lg-12">
-                    	<h1>What Defines Our Product</h1>
-                    </div>
-                </div><!-- end db row 1 -->
-            	
-                <!-- start db row 2 -->
-                <div class="row">
-                    <!-- start 8-col centered div -->
-                    <div class="col-lg-8 col-lg-offset-2">
-                    	<!-- start new row to contain individual definitions -->
-                        <div class="row align-table">
-                        	<!-- start definition 1 -->	
-                            <div class="col-lg-4 align-center">
-                                <div class="row">
-                                	<img src="images/circle1.png">
-                                </div>
+            <!-- start main row 3 -->
+            <div class="row">
+            	<!-- start definitions banner (db) -->
+            	<div class="col-lg-12 definition-banner">
+                    <!-- start db row 1 -->
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <h1>What Defines Our Product</h1>
+                        </div>
+                    </div><!-- end db row 1 -->
+                    
+                    <!-- start db row 2 -->
+                    <div class="row">
+                        <!-- start 8-col centered div -->
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <!-- start new row to contain individual definitions -->
+                            <div class="row align-table">
+                                <!-- start definition 1 -->	
+                                <div class="col-lg-4 align-center">
+                                    <div class="row">
+                                        <img src="images/circle1.png">
+                                    </div>
+                                    
+                                    <div class="row">
+                                        <h3>Trusted Information</h3>
+                                    </div>
+                                </div><!-- end definition 1 -->
                                 
-                                <div class="row">
-                                	<h3>Trusted Information</h3>
-                                </div>
-                            </div><!-- end definition 1 -->
-                            
-                            <!-- start definition 2 -->             
-                            <div class="col-lg-4 align-center">
-                                <div class="row">
-                                	<img src="images/circle2.png">
-                                </div>
+                                <!-- start definition 2 -->             
+                                <div class="col-lg-4 align-center">
+                                    <div class="row">
+                                        <img src="images/circle2.png">
+                                    </div>
+                                    
+                                    <div class="row">
+                                        <h3>Specific Care Advice</h3>
+                                    </div>
+                                </div><!-- end definition 2 -->
                                 
-                                <div class="row">
-                                	<h3>Specific Care Advice</h3>
-                                </div>
-                            </div><!-- end definition 2 -->
-                            
-                            <!-- start definition 3 -->           
-                            <div class="col-lg-4 align-center">
-                                <div class="row">
-                                	<img src="images/circle3.png">
-                                </div>
-                                
-                                <div class="row">
-                                	<h3>Integrated Profile</h3>
-                                </div>
-                            </div><!-- end definition 3 -->                  
-                        </div><!-- end row containing individual definitions -->
-                    </div><!-- end 8-col dentered div -->    
-                </div><!-- end db row 2 -->
-          	</div><!-- end main row 3 (definitions banner (db)) -->
+                                <!-- start definition 3 -->           
+                                <div class="col-lg-4 align-center">
+                                    <div class="row">
+                                        <img src="images/circle3.png">
+                                    </div>
+                                    
+                                    <div class="row">
+                                        <h3>Integrated Profile</h3>
+                                    </div>
+                                </div><!-- end definition 3 -->                  
+                            </div><!-- end row containing individual definitions -->
+                        </div><!-- end 8-col dentered div -->    
+                    </div><!-- end db row 2 --> 
+                </div><!-- end definitions banner (db) -->
+          	</div><!-- end main row 3 -->
             
             <!-- start main row 4 -->
             <div class="row">
