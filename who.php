@@ -54,8 +54,8 @@
                 <ul class="nav navbar-nav">
                 
                     <!-- active class attached to "current" list item to show what page we are currently on -->
-                    <li class="active"><a href="index.php">What</a></li>
-                    <li><a href="who.php">Who</a></li>
+                    <li><a href="index.php">What</a></li>
+                    <li class="active"><a href="who.php">Who</a></li>
                     <li><a href="#">How</a></li>
                     <li><a href="#">Product Design</a></li>
                     <li><a href="#">Meet The Team</a></li>
@@ -80,97 +80,59 @@
        
         <!-- start main content -->
         <div id="main-content">
+        
+        	<!--spacer -->
+            <div class="spacer-row">
+            </div><!-- end spacer row -->
+            
         	<!-- start main row 1 -->
             <div class="row">
             	<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                   	<img src="images/pic1.png" class="img-responsive">
+                	<div class="row">
+                    	<div class="col-lg-8 col-lg-offset-2 align-center">
+                        	<img src="images/persona.png" class="img-responsive">
+                        </div>
+                    </div>
+                   	
 	            </div>
             </div><!-- end main row 1 -->
             
             <!--spacer -->
             <div class="spacer-row">
             </div><!-- end spacer row -->
-            
+                     
             <!-- start main row 2 -->
             <div class="row">
-            	<!-- start video placeholder -->
-            	<div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-1 col-sm-6 col-xs-12">
-                	<img src="images/vid-placeholder.png" class="img-responsive">
-                </div><!-- end video placeholder -->
-                
-                <!-- start welcome text -->
-                <div class="col-lg-4 col-md-5 col-sm-6 col-xs-12 align-justify">
-                	<h1>What is MyOw?</h1>
-                    <p>We want the design to provide the user with confidence in the information provided so we are using professional logos which include a medical emblem. We also want to have a low number of screens so that users can quickly and easily access key medical information that may help save their pet's life. </p>
-                </div><!-- end welcome text -->
-            </div><!-- end main row 2 -->
-            
-             <!--spacer -->
-            <div class="spacer-row">
-            </div><!-- end spacer row -->
-            
-            <!-- start main row 3 -->
-            <div class="row">
-            	<!-- start definitions banner (db) -->
             	<div class="col-lg-12 definition-banner">
-                    <!-- start db row 1 -->
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <h1>What Defines Our Product</h1>
+                	<div class="row">
+                    	<div class="col-lg-8 col-lg-offset-2 align-center">
+                        	<h1>Background</h1>
                         </div>
-                    </div><!-- end db row 1 -->
+                    </div>
                     
-                    <!-- start db row 2 -->
                     <div class="row">
-                        <!-- start 8-col centered div -->
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <!-- start new row to contain individual definitions -->
-                            <div class="row align-table">
-                                <!-- start definition 1 -->	
-                                <div class="col-lg-4 align-center">
-                                    <div class="row">
-                                        <img src="images/circle1.png">
-                                    </div>
-                                    
-                                    <div class="row">
-                                        <h3>Trusted Information</h3>
-                                    </div>
-                                </div><!-- end definition 1 -->
-                                
-                                <!-- start definition 2 -->             
-                                <div class="col-lg-4 align-center">
-                                    <div class="row">
-                                        <img src="images/circle2.png">
-                                    </div>
-                                    
-                                    <div class="row">
-                                        <h3>Specific Care Advice</h3>
-                                    </div>
-                                </div><!-- end definition 2 -->
-                                
-                                <!-- start definition 3 -->           
-                                <div class="col-lg-4 align-center">
-                                    <div class="row">
-                                        <img src="images/circle3.png">
-                                    </div>
-                                    
-                                    <div class="row">
-                                        <h3>Integrated Profile</h3>
-                                    </div>
-                                </div><!-- end definition 3 -->                  
-                            </div><!-- end row containing individual definitions -->
-                        </div><!-- end 8-col dentered div -->    
-                    </div><!-- end db row 2 --> 
-                </div><!-- end definitions banner (db) -->
-          	</div><!-- end main row 3 -->
+                    	<div class="col-lg-8 col-lg-offset-2 align-justify">
+                        	<p><img src="images/kiella1.png" class="img-responsive pull-right" id="kiella-pic-1">Mary O'Donnell is a 41-year-old primary school teacher who lives with her husband David and two children Katie (9) and Felix (5) in Navan, Co. Meath. She has two pets in the house; a 6-month-old Yorkshire Terrier named Kiella, who they got for Felix's 5th birthday. They also have a 2-year-old cat called Molly, who has a bad habit of wandering off for days at a time.</p>
+                            
+                            <p><img src="images/kiella2.png" class="img-responsive pull-left" id="kiella-pic-2">Mary's husband David works in Drogheda as a solicitor and is usually the first out of the house in the morning and the last back in the evening. Mary leaves for school at 8:15 with the two kids and leaves Kiella outside in the garden. There is a kennel in the garden should it rain, and there is lots of space for him to run around in.</p>
+                            
+                            <p>It's early March and it has been quite cold recently so Mary is not comfortable leaving Kiella outside. Unfortunately, if he's left unattended in the house he will destroy it while they are away, so she put some extra blankets in his kennel. Mary noticed about a week ago that Kiella has not been eating all of his food, and he looks a little confused and unsteady. She is also worried about Molly as she hasn't been home for over a day and that is a bit too long, even for her. She has started asking neighbours to keep a look out for her.</p>
+                        </div>
+                    </div>
+                </div>
+          	</div><!-- end main row 2 -->
             
             <!-- start main row 4 -->
             <div class="row">
             	<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 align-justify">
-                	<h2><img src="images/pic2.png" class="img-responsive padding-left pull-right" id="dca">Digital Care Assistant</h2>
-                    <p>MyOw is an app which acts as a digital care assistant by providing information to maintain the animal's well-being, such as pet profile updates, pet profile sharing, pet specific information integration and pet appointments and reminders.</p>
-                    <p>The app will also be used to assess the current medical condition of a pet based on information provided by the user. By opening a dialogue with the user, it diagnoses the current medical condition of the animal.</p>
-                    <p>It then provides a two-phase set of solutions to help the animal, firstly suggesting medical treatments that can be administered by the user. If the user feels they need to visit a veterinarian, the app then connects the user with the most appropriate practice to treat the animal. It then sends that vet all the relevant data on the animal's medical situation, so he or she has a clear picture of the animal's current condition and its medical history.</p>
+                	<h2>Scenario</h2>
+                    <p>Mary and the kids come home from school on Wednesday evening to find Kiella hadn't eaten much of the food she left out for him that day, and he is looking really weak. She uses MyOw to try and find out what might be wrong with him. It look like a lot of his symptoms could be related to Hypoglycemia so she emails their vet to make an appointment to have Kiella seen the next day. The app has suggested rubbing honey in Kiella's gums, it seems like a safe enough approach so she tries it.</p>
+                    <p>Sadly there is still no sign of Molly and Katie is very upset that something has happened to her. So Mary goes on MyOw and creates a missing animal advert using Molly's Pet Profile, which is stored on the app, and publishes it to all the media sources available including the paid adverts.</p>
+                    <p>A few hours pass by and Mary gets a notification that a cat matching Molly's description has been found 2km away from the house on the road. Mary calls the person who responded and finds out the exact location so she and Katie jump in the car to see if it's her. Unfortunately, when they get there they discover that it is Molly and she has been clipped by a car and is struggling to get up. Mary calls the usual vet but there is no answer, so she goes on MyOw and searches for the nearest vet that could treat Molly. The app connects Mary to a veterinary hospital 15 km away and they agree to see her immediately. The vet says that Molly has broken her hip and will need to be operated on and kept in for a few days. </p>
+                    
+                    <p>Back home, Mary goes back on MyOw to see what else she can do to help Kiella. The recommended advice is to keep him warm. She arranges for David's mother, Margot, to look after Kiella during the day as she is home and doesn't mind her dogs being in the house. As Margot also has MyOw installed on her phone, Mary opts to share Kiella's Pet Profile with Margot so she can update any of his details if need be.</p>
+                    
+                    <p>Margot takes Kiella to the vet the next day and the vet is fairly sure that it is in fact Hypoglycemia. He takes some blood and urine samples to be sent off for analysis. Margot updates Kiella's profile to everyone else can see the news. That night when Mary picks up Kiella, Margot informs her of some of the advice that the vet gave and she goes home with Kiella and the kids. At home, she updates Kiella's calendar to set reminders for his medication intake three times a day.</p>
                     
                 </div>
             </div><!-- end main row 4 -->
