@@ -105,7 +105,7 @@
             <div class="row">
             	<div class="col-lg-12 definition-banner">
                 	<div class="row">
-                    	<div class="col-lg-8 col-lg-offset-2 align-center">
+                    	<div class="col-lg-8 col-lg-offset-2 align-center" id="persona">
                         	<h1>Background</h1>
                         </div>
                     </div>
