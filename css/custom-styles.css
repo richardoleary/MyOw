@@ -4,7 +4,7 @@
 /*
 	Team 23 Digital Direct
     UXCD Assessment 3
-    First Draft 27/04/17
+    2nd Draft 01/5/17
 */
 
 body
@@ -146,6 +146,18 @@ img {
 {
 	padding-top: 5px;
 	padding-bottom: 5px;
+}
+
+#kiella-pic-1
+{
+	border: solid 2px #FFF;
+	margin-left: 15px;
+}
+
+#kiella-pic-2
+{
+	border: solid 2px #FFF;
+	margin-right: 15px;
 }
 
 .top-nav-styling
