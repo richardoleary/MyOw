@@ -169,16 +169,8 @@
                     <ul class="nav navbar-nav">
                     
                         <!-- active class attached to "current" list item to show what page we are currently on -->
-                        <li class="active"><a href="#">What</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Who<b class="caret"></b></a>
-                            <!-- a nested unordered list to create a dropdown menu -->
-                            <!-- start of innder ul -->
-                            <ul class="dropdown-menu">
-                                <li><a href="#">Personas</a></li>
-                                <li><a href="#">Scenarios</a></li>
-                            </ul><!-- end of inner ul -->
-                        </li>
+                        <li><a href="index.php">What</a></li>
+                        <li class="active"><a href="who.php">Who</a></li>
                         <li><a href="#">How</a></li>
                         <li><a href="#">Product Design</a></li>
                         <li><a href="#">Meet The Team</a></li>
