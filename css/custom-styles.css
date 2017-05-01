@@ -47,12 +47,10 @@ h1,h2,h3,h4,h5,h6
 	color: #FFF;
 }
 
-
 .definition-banner h3
 {
 	color: #FFF;
 	font-family: 'Roboto', sans-serif;
-	font-size: 18px;
 }
 
 .align-center
@@ -81,6 +79,15 @@ h1,h2,h3,h4,h5,h6
 	margin-right: auto;
 }
 
+
+/*
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+*/
+
 .red-bg
 {
 	background-color: #F00;
@@ -94,6 +101,11 @@ h1,h2,h3,h4,h5,h6
 .green-bg
 {
 	background-color: #7cc142;
+}
+
+.black-bg
+{
+	background-color: #000;
 }
 
 /*
