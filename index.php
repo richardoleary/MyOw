@@ -88,18 +88,18 @@
        
         <!-- start main content -->
         <div id="main-content">
-        	<!-- start row 1 -->
+        	<!-- start main row 1 -->
             <div class="row">
             	<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                    	<img src="images/pic1.png" class="img-responsive">
 	            </div>
-            </div><!-- end row 1 -->
+            </div><!-- end main row 1 -->
             
             <!--spacer -->
             <div class="spacer-row">
             </div><!-- end spacer row -->
             
-            <!-- start row 2 -->
+            <!-- start main row 2 -->
             <div class="row">
             	<!-- start video placeholder -->
             	<div class="col-lg-3 col-lg-offset-2 col-md-4 col-md-offset-1 col-sm-4">
@@ -111,36 +111,65 @@
                 	<h1>What is MyOw?</h1>
                     <p>We want the design to provide the user with confidence in the information provided so we are using professional logos which include a medical emblem. We also want to have a low number of screens so that users can quickly and easily access key medical information that may help save their pet's life. </p>
                 </div><!-- end welcome text -->
-            </div><!-- end row 2 -->
+            </div><!-- end main row 2 -->
             
              <!--spacer -->
             <div class="spacer-row">
             </div><!-- end spacer row -->
             
-            <!-- start row 3 -->
+            <!-- start main row 3 (definitions banner (db)) -->
             <div class="row definition-banner">
-            	<div class="col-lg-12">
-                	<h1>What Defines Our Product</h1>
-                </div>
+            	<!-- start db row 1 -->
+                <div class="row">
+                    <div class="col-lg-12">
+                    	<h1>What Defines Our Product</h1>
+                    </div>
+                </div><!-- end db row 1 -->
+            	
+                <!-- start db row 2 -->
+                <div class="row">
+                    <!-- start 8-col centered div -->
+                    <div class="col-lg-8 col-lg-offset-2">
+                    	<!-- start new row to contain individual definitions -->
+                        <div class="row align-table">
+                        	<!-- start definition 1 -->	
+                            <div class="col-lg-4 align-center">
+                                <div class="row">
+                                	<img src="images/circle1.png">
+                                </div>
+                                
+                                <div class="row">
+                                	<h3>Trusted Information</h3>
+                                </div>
+                            </div><!-- end definition 1 -->
+                            
+                            <!-- start definition 2 -->             
+                            <div class="col-lg-4 align-center">
+                                <div class="row">
+                                	<img src="images/circle2.png">
+                                </div>
+                                
+                                <div class="row">
+                                	<h3>Specific Care Advice</h3>
+                                </div>
+                            </div><!-- end definition 2 -->
+                            
+                            <!-- start definition 3 -->           
+                            <div class="col-lg-4 align-center">
+                                <div class="row">
+                                	<img src="images/circle3.png">
+                                </div>
+                                
+                                <div class="row">
+                                	<h3>Integrated Profile</h3>
+                                </div>
+                            </div><!-- end definition 3 -->                  
+                        </div><!-- end row containing individual definitions -->
+                    </div><!-- end 8-col dentered div -->    
+                </div><!-- end db row 2 -->
+          	</div><!-- end main row 3 (definitions banner (db)) -->
             
-            	<div class="col-lg-2 col-lg-offset-2">
-                	<img src="images/circle1.png">
-                    <h3>Trusted Information</h3>
-                </div>
-                
-                <div class="col-lg-2 col-lg-offset-1">
-                	<img src="images/circle2.png">
-                    <h3>Specific Care Advice</h3>
-                </div>
-                
-                <div class="col-lg-2 col-lg-offset-1">
-                	<img src="images/circle3.png">
-                    <h3>Integrated Profile</h3>
-                </div>
-                
-            </div><!-- end row 3 -->
-            
-            <!-- start row 4 -->
+            <!-- start main row 4 -->
             <div class="row">
             	<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 align-justify">
                 	<h2><img src="images/pic2.png" class="img-responsive padding-left pull-right" id="dca">Digital Care Assistant</h2>
@@ -149,7 +178,7 @@
                     <p>It then provides a two-phase set of solutions to help the animal, firstly suggesting medical treatments that can be administered by the user. If the user feels they need to visit a veterinarian, the app then connects the user with the most appropriate practice to treat the animal. It then sends that vet all the relevant data on the animal's medical situation, so he or she has a clear picture of the animal's current condition and its medical history.</p>
                     
                 </div>
-            </div><!-- end row 4 -->
+            </div><!-- end main row 4 -->
         </div><!-- end main content -->
         
         
