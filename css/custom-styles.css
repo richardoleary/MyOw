@@ -47,9 +47,10 @@ h1,h2,h3,h4,h5,h6
 	color: #FFF;
 }
 
+
 .definition-banner h3
 {
-	color: #000;
+	color: #FFF;
 	font-family: 'Roboto', sans-serif;
 	font-size: 18px;
 }
