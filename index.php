@@ -11,7 +11,7 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS -->
-    <link href="css/MyStyles.css" rel="stylesheet">
+    <link href="css/custom-styles.css" rel="stylesheet">
         
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -65,7 +65,7 @@
                         </ul><!-- end of inner ul -->
                     </li>
                     <li><a href="#">How</a></li>
-                    <li><a href="#">Product  Design</a></li>
+                    <li><a href="#">Product Design</a></li>
                     <li><a href="#">Meet The Team</a></li>
                     <li><a href="#">References</a></li>
                     <li><a href="#">Appendix</a></li>
@@ -158,7 +158,7 @@
         <div class="row">
         	
             <!-- start of bottom navbar -->
-            <div class="container navbar navbar-custom-inverted no-gutters no-bottom-margin">
+            <div class="container navbar navbar-custom-bottom no-gutters no-bottom-margin">
         	                            
             <!-- creating a button that will display when the navbar collapses for mobile viewing using data-attributes -->
             <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapseBottom">
@@ -184,7 +184,7 @@
                         </ul><!-- end of inner ul -->
                     </li>
                     <li><a href="#">How</a></li>
-                    <li><a href="#">Product  Design</a></li>
+                    <li><a href="#">Product Design</a></li>
                     <li><a href="#">Meet The Team</a></li>
                     <li><a href="#">References</a></li>
                     <li><a href="#">Appendix</a></li>
